@@ -1,3 +1,7 @@
 {
-    "jupyter.jupyterServerType": "local"
+    "jupyter.jupyterServerType": "remote",
+    "jupyter.experimental.debugging": true,
+    "jupyter.enableNativeInteractiveWindow": false
+
+
 }
