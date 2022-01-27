@@ -7,6 +7,7 @@
 
 # Local History for Visual Studio Code
 .history/
+*/ebay*
 
 examples/*
 datasets/*
@@ -19,6 +20,6 @@ Course material
 class.csv 
 funda.csv
 googleplay.csv
-
+autos.csv
 ufo.csv
 youtube.csv
